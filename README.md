@@ -3,7 +3,8 @@
 🌿 Currently learning HTML, CSS, Javascript and REACT
 <br>
 🍒 Likes coffee, sweets and good design
-
+<br>
+✨ Trying to coin the term 'squish and merge'
 
 <!---
 kimbcheh/kimbcheh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
