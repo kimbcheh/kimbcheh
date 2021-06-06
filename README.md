@@ -1,6 +1,6 @@
 💫 Hi, I’m Kimberly! 
 <br>
-🌿 Currently learning HTML, CSS, Javascript and REACT
+🌿 Currently learning HTML, CSS, Javascript and React
 <br>
 🍒 Likes coffee, sweets and good design
 <br>
